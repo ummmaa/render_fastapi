@@ -60,4 +60,4 @@ def index():
 
     @app.post("/present")
 async def new_naming(present):
-    return {"response": f"サーバです。ハッピー試験日！ {present}ありがとう。答案用紙です。"}
+    return {"response": f"サーバです。ハッピー試験日！ {present}をありがとう。答案用紙です。"}
