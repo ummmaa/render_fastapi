@@ -43,7 +43,8 @@ def index():
             <title>Some HTML in here</title>
         </head>
         <body>
-            <h1>課題9-Aだヨ＾＾</h1>
+            <h1>Hello!!!!!!!!!!</h1>
+            <h2>課題9-Aだヨ＾＾</h2>
             <br>課</br>
             <br>題</br>
             <br>や</br>
@@ -51,7 +52,7 @@ def index():
             <br>ま</br>
             <br>し</br>
             <br>た</br>
-            <h2>Fooooooooooo!!!!!!!!!!!</h2>
+            <h3>Fooooooooooo!!!!!!!!!!!</h3>
         </body>
     </html>
     """
